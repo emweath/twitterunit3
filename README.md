@@ -22,6 +22,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://im2.ezgif.com/tmp/ezgif-2-53789501c1.gif
+http://g.recordit.co/AO0Mm9R1O5.gif
 
 
